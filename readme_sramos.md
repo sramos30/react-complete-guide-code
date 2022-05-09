@@ -16,8 +16,12 @@
 
 > ./copy_branch.sh 01-getting-started 02-js-refresher 03-react-basics-working-with-components 04-react-state-events
 
+> git switch_branch.sh 01-getting-started
+> git switch_branch.sh push
+
 ### branches
 ```
+  master
   01-getting-started
   02-js-refresher
   03-react-basics-working-with-components
